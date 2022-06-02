@@ -1,1 +1,1 @@
-# sort
+Запуск тестов: npm run test

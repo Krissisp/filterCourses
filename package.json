@@ -1,0 +1,29 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krissisp/sort.git"
+  },
+  "author": "Kristina Palenykh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krissisp/sort/issues"
+  },
+  "homepage": "https://github.com/Krissisp/sort#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "dependencies": {
+    "@jest/globals": "^28.1.0",
+    "jest": "^28.1.0",
+    "jest-globals": "^0.1.7"
+  }
+}
